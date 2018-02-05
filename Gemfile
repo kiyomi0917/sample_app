@@ -1,5 +1,9 @@
 source 'https://rubygems.org'
+ruby '2.3.4'
+#ruby-gemset=railstutorial_rails_4_0
 
+gem 'sprockets', '3.7.1'
+gem 'devise', '3.4.1'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
